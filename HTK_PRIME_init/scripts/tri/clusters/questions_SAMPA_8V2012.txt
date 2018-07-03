@@ -1,0 +1,43 @@
+sp-zwarte				b b' p p' d g g' k k' t 
+sp-zwarte-wargowe			p b
+sp-zwarte-przedniopodniebienne		k' g'
+sp-zwarte-podniebienne			k g
+sp-szczelinowe				v v' f f' z z' s s' Z S x x'
+sp-szczelinowe-wargowo-zębowe		v f
+sp-szczelinowe-zębowe			s z
+sp-szczelinowe-dziąsłowo-apikalne	S Z s z
+sp-szczelinowe-zazębowe			s s' z z'
+sp-szczelinowe-przedniopodniebienne	x'
+sp-szczelinowe-podniebienne		x G
+sp-boczne				l 
+sp-półsamogłosowe			w w~ n'
+sam-wysokie-przymknięte			i I u
+sam-średniootwarte			e o
+sam-otwarte				a
+sam-przedniojęzykowe			i I e
+sam-tylnojęzykowe			a o u
+sam-przednie-niezaokrąglone		i e
+sam-centralne-niezaokrąglone		I a
+sam-tylne-niezaokrąglone		u o
+sp-przech-w-środkowojęzykowe-przed-i	c n s z dz
+sp-zmiękczane-przez-i			t d p b m f v l r dZ x tS S Z
+sp-zmiękczane-przez-ia			c n s z dz k g b f m p v
+sp-zmiękczane-przez-ia-nie-przez-i	b f m p v
+sp-przech-w-miękkie-przed-i		k g
+sp-nast-po-udźwięcznionym-n		k g
+sp-wargowe				p b m w w~
+sp-zębowe				t d ts dz s z n
+sp-dziąsłowe				tS dZ S Z r l
+sp-zazębowe				c' dz' s' z' n'
+sp-prewelarne				k' g' x' N'
+sp-welarne				k g x G N
+półsamogłoski				w w~ j j~
+sp-zwarte2				p t k' k b d g' g
+sp-zwarte2-bezdźwięczne			p t k' k
+sp-zwarte2-dźwięczne			b d g' g
+afrykaty				ts ts' tS dz dZ dz'
+afrykaty-bezdźwięczne			ts ts' tS 
+afrykaty-dźwięczne			dz dZ dz'
+szczelinowe				f v s z S Z s' z' x x' G
+szczelinowe-bezdźwięczne		f s S s' x' x
+szczelinowe-dźwięczne			v z Z z' G

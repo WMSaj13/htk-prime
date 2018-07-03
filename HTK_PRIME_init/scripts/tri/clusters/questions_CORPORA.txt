@@ -1,0 +1,20 @@
+ustne					i y e a o u
+nosowe-samogloski			w~
+glajdy					j
+plynne					l r
+drzace					r
+nosowe-sonaty				m n n' N
+zwarte					b p d t g k
+zwarte1				b p
+zwarte2				g k
+zwarte3				d t
+szczelinowe				w f h z s z' s' Z S
+szczelinowe1				w f
+szczelinowe2				x
+szczelinowe3				z s
+szczelinowe4				z' s'
+szczelinowe5				R S
+zwartoszczelinowe			dz c dz' c' dZ tS
+zwartoszczelinowe1			dz tS
+zwartoszczelinowe2			dz' c'
+zwartoszczelinowe3			dZ tS

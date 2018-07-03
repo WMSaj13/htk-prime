@@ -1,0 +1,618 @@
+ 	 	0	1	 	 	1
+a	a	0	1	a	a#a	1
+ą	ą	0	1	o w~	ą#ow~	1
+ą	ąb	0	1	o m	ą#om	1
+ą	ąc	0	1	o n	ą#on	1
+ą	ąci	0	1	o n'	ą#on'	1
+ą	ącz	0	1	o n	ą#on	1
+ą	ąć	0	1	o n'	ą#on'	1
+ą	ąd	0	1	o n	ą#on	1
+ą	ądz	0	1	o n	ą#on	1
+ą	ądzi	0	1	o n'	ą#on'	1
+ą	ądź	0	1	o n'	ą#on'	1
+ą	ądż	0	1	o n	ą#on	1
+ą	ąg	0	1	o N	ą#oN	1
+ą	ągi	0	1	o N'	ą#oN'	1
+ą	ąk	0	1	o N	ą#oN	1
+ą	ąki	0	1	o N'	ą#oN'	1
+ą	ąl	0	1	o	ą#o	1
+ą	ął	0	1	o	ą#o	1
+ą	ąp	0	1	o m	ą#om	1
+ą	ąt	0	1	o n	ą#on	1
+b	b	0	1	b	b#b	1
+b	b 	0	1	p	b#p	1
+b	bc	0	1	p	b#p	1
+b	bć	0	1	p	b#p	1
+b	bf	0	1	p	b#p	1
+b	bh	0	1	p	b#p	1
+b	bk	0	1	p	b#p	1
+b	bp	0	1	p	b#p	1
+b	bs	0	1	p	b#p	1
+b	bś	0	1	p	b#p	1
+b	bt	0	1	p	b#p	1
+bi	bi	0	2	b i	bi#bi	1
+bi	bia	0	2	b'	bi#b'	1
+bi	bie	0	2	b'	bi#b'	1
+bi	bii	0	2	b'	bi#b'	1
+bi	bio	0	2	b'	bi#b'	1
+bi	bió	0	2	b'	bi#b'	1
+bi	biu	0	2	b'	bi#b'	1
+bi	biy	0	2	b'	bi#b'	1
+c	c	0	1	ts	c#ts	1
+c	cb	0	1	dz	c#dz	1
+c	cd	0	1	dz	c#dz	1
+c	cg	0	1	dz	c#dz	1
+c	cź	0	1	dz	c#dz	1
+c	cż	0	1	dz	c#dz	1
+ch	ch	0	2	x	ch#x	1
+ch	chb	0	2	G	ch#G	1
+ch	chd	0	2	G	ch#G	1
+ch	chg	0	2	G	ch#G	1
+ch	chz	0	2	G	ch#G	1
+ch	chź	0	2	G	ch#G	1
+ch	chż	0	2	G	ch#G	1
+chi	chi	0	3	x' i	chi#x'i	1
+chi	chia	0	3	x' j	chi#x'j	1
+chi	chie	0	3	x' j	chi#x'j	1
+chi	chii	0	3	x' j	chi#x'j	1
+chi	chio	0	3	x' j	chi#x'j	1
+chi	chió	0	3	x' j	chi#x'j	1
+chi	chiu	0	3	x' j	chi#x'j	1
+chi	chiy	0	3	x' j	chi#x'j	1
+ci	ci	0	2	ts' i	ci#ts'i	1
+ci	cia	0	2	ts'	ci#ts'	1
+ci	cie	0	2	ts'	ci#ts'	1
+ci	cii	0	2	ts'	ci#ts'	1
+ci	cio	0	2	ts'	ci#ts'	1
+ci	ció	0	2	ts'	ci#ts'	1
+ci	ciu	0	2	ts'	ci#ts'	1
+ci	ciy	0	2	ts'	ci#ts'	1
+cz	cz	0	2	tS	cz#tS	1
+cz	czb	0	2	dZ	cz#dZ	1
+cz	czd	0	2	dZ	cz#dZ	1
+cz	czg	0	2	dZ	cz#dZ	1
+cz	czz	0	2	dZ	cz#dZ	1
+cz	czź	0	2	dZ	cz#dZ	1
+cz	czż	0	2	dZ	cz#dZ	1
+ć	ć	0	1	ts'	ć#ts'	1
+ć	ćb	0	1	dz'	ć#dz'	1
+ć	ćd	0	1	dz'	ć#dz'	1
+ć	ćg	0	1	dz'	ć#dz'	1
+ć	ćz	0	1	dz'	ć#dz'	1
+ć	ćź	0	1	dz'	ć#dz'	1
+ć	ćż	0	1	dz'	ć#dz'	1
+d	d	0	1	d	d#d	1
+d	d 	0	1	t	d#t	1
+d	dc	0	1	t	d#t	1
+d	dc	0	1	ts	d#ts	1
+d	dci	0	1	ts'	d#ts'	1
+d	dcz	0	1	tS	d#tS	1
+d	dć	0	1	t	d#t	1
+d	dć	0	1	ts'	d#ts'	1
+d	ddrz	0	1	dZ	d#dZ	1
+d	ddzi	0	1	dz'	d#dz'	1
+d	ddź	0	1	dz'	d#dz'	1
+d	ddż	0	1	dZ	d#dZ	1
+d	df	0	1	t	d#t	1
+d	dh	0	1	t	d#t	1
+d	dk	0	1	t	d#t	1
+d	dp	0	1	t	d#t	1
+d	drz	0	1	dZ	d#dZ	1
+d	ds	0	1	t	d#t	1
+d	ds	0	1	ts	d#ts	1
+d	dsi	0	1	ts'	d#ts'	1
+d	dsz	0	1	tS	d#tS	1
+d	dś	0	1	t	d#t	1
+d	dś	0	1	ts'	d#ts'	1
+d	dt	0	1	t	d#t	1
+d	dtrz	0	1	tS	d#tS	1
+d	dzi	0	1	dz'	d#dz'	1
+d	dź	0	1	dz'	d#dz'	1
+d	dż	0	1	dZ	d#dZ	1
+di	dia	0	2	d j	di#dj	1
+di	die	0	2	d j	di#dj	1
+di	dii	0	2	d j	di#dj	1
+di	dio	0	2	d j	di#dj	1
+di	dió	0	2	d j	di#dj	1
+di	diu	0	2	d j	di#dj	1
+di	diy	0	2	d j	di#dj	1
+dz	dz	0	2	dz	dz#dz	1
+dz	dz 	0	2	ts	dz#ts	1
+dz	dzc	0	2	ts	dz#ts	1
+dz	dzć	0	2	ts	dz#ts	1
+dz	dzf	0	2	ts	dz#ts	1
+dz	dzh	0	2	ts	dz#ts	1
+dz	dzk	0	2	ts	dz#ts	1
+dz	dzp	0	2	ts	dz#ts	1
+dz	dzs	0	2	ts	dz#ts	1
+dz	dzś	0	2	ts	dz#ts	1
+dz	dzt	0	2	ts	dz#ts	1
+dzi	dzi	0	3	dz' i	dzi#dz'i	1
+dzi	dzia	0	3	dz'	dzi#dz'	1
+dzi	dzie	0	3	dz'	dzi#dz'	1
+dzi	dzii	0	3	dz'	dzi#dz'	1
+dzi	dzio	0	3	dz'	dzi#dz'	1
+dzi	dzió	0	3	dz'	dzi#dz'	1
+dzi	dziu	0	3	dz'	dzi#dz'	1
+dzi	dziy	0	3	dz'	dzi#dz'	1
+dź	dź	0	2	dz'	dź#dz'	1
+dź	dź 	0	2	ts'	dź#ts'	1
+dź	dźc	0	2	ts'	dź#ts'	1
+dź	dźć	0	2	ts'	dź#ts'	1
+dź	dźf	0	2	ts'	dź#ts'	1
+dź	dźh	0	2	ts'	dź#ts'	1
+dź	dźk	0	2	ts'	dź#ts'	1
+dź	dźp	0	2	ts'	dź#ts'	1
+dź	dźs	0	2	ts'	dź#ts'	1
+dź	dźś	0	2	ts'	dź#ts'	1
+dź	dźt	0	2	ts'	dź#ts'	1
+dż	dż	0	2	dZ	dż#dZ	1
+dż	dż 	0	2	tS	dż#tS	1
+dż	dżc	0	2	tS	dż#tS	1
+dż	dżć	0	2	tS	dż#tS	1
+dż	dżf	0	2	tS	dż#tS	1
+dż	dżh	0	2	tS	dż#tS	1
+dż	dżk	0	2	tS	dż#tS	1
+dż	dżp	0	2	tS	dż#tS	1
+dż	dżs	0	2	tS	dż#tS	1
+dż	dżś	0	2	tS	dż#tS	1
+dż	dżt	0	2	tS	dż#tS	1
+e	e	0	1	e	e#e	1
+ę	ę	0	1	e w~	ę#ew~	1
+ę	ę 	0	1	e	ę#e	1
+ę	ęb	0	1	e m	ę#em	1
+ę	ęc	0	1	e n	ę#en	1
+ę	ęci	0	1	e n'	ę#en'	1
+ę	ęcz	0	1	e n	ę#en	1
+ę	ęć	0	1	e n'	ę#en'	1
+ę	ęd	0	1	e n	ę#en	1
+ę	ędz	0	1	e n	ę#en	1
+ę	ędzi	0	1	e n'	ę#en'	1
+ę	ędź	0	1	e n'	ę#en'	1
+ę	ędż	0	1	e n	ę#en	1
+ę	ęg	0	1	e N	ę#eN	1
+ę	ęgi	0	1	e N'	ę#eN'	1
+ę	ęk	0	1	e N	ę#eN	1
+ę	ęki	0	1	e N'	ę#eN'	1
+ę	ęl	0	1	e	ę#e	1
+ę	ęł	0	1	e	ę#e	1
+ę	ęp	0	1	e m	ę#em	1
+ę	ęt	0	1	e n	ę#en	1
+f	f	0	1	f	f#f	1
+f	fb	0	1	v	f#v	1
+f	fd	0	1	v	f#v	1
+f	fg	0	1	v	f#v	1
+f	fz	0	1	v	f#v	1
+f	fź	0	1	v	f#v	1
+f	fż	0	1	v	f#v	1
+fi	fi	0	2	f i	fi#fi	1
+fi	fia	0	2	f'	fi#f'	1
+fi	fie	0	2	f'	fi#f'	1
+fi	fii	0	2	f'	fi#f'	1
+fi	fio	0	2	f'	fi#f'	1
+fi	fió	0	2	f'	fi#f'	1
+fi	fiu	0	2	f'	fi#f'	1
+fi	fiy	0	2	f'	fi#f'	1
+g	g	0	1	g	g#g	1
+g	g 	0	1	k	g#k	1
+g	gc	0	1	k	g#k	1
+g	gć	0	1	k	g#k	1
+g	gf	0	1	k	g#k	1
+g	gh	0	1	k	g#k	1
+g	gk	0	1	k	g#k	1
+g	gp	0	1	k	g#k	1
+g	gs	0	1	k	g#k	1
+g	gś	0	1	k	g#k	1
+g	gt	0	1	k	g#k	1
+gi	gi	0	2	g' i	gi#g'i	1
+gi	gia	0	2	g'	gi#g'	1
+gi	gie	0	2	g'	gi#g'	1
+gi	gii	0	2	g'	gi#g'	1
+gi	gio	0	2	g'	gi#g'	1
+gi	gió	0	2	g'	gi#g'	1
+gi	giu	0	2	g'	gi#g'	1
+gi	giy	0	2	g'	gi#g'	1
+h	h	0	1	x	h#x	1
+h	hb	0	1	G	h#G	1
+h	hd	0	1	G	h#G	1
+h	hg	0	1	G	h#G	1
+h	hz	0	1	G	h#G	1
+h	hź	0	1	G	h#G	1
+h	hż	0	1	G	h#G	1
+hi	hi	0	2	x' i	hi#x'i	1
+hi	hia	0	2	x' j	hi#x'j	1
+hi	hie	0	2	x' j	hi#x'j	1
+hi	hii	0	2	x' j	hi#x'j	1
+hi	hio	0	2	x' j	hi#x'j	1
+hi	hió	0	2	x' j	hi#x'j	1
+hi	hiu	0	2	x' j	hi#x'j	1
+hi	hiy	0	2	x' j	hi#x'j	1
+i	i	0	1	i	i#i	1
+j	j	0	1	j	j#j	1
+k	k	0	1	k	k#k	1
+k	kb	0	1	g	k#g	1
+k	kd	0	1	g	k#g	1
+k	kg	0	1	g	k#g	1
+k	kz	0	1	g	k#g	1
+k	kź	0	1	g	k#g	1
+k	kż	0	1	g	k#g	1
+ki	ki	0	2	k' i	ki#k'i	1
+ki	kia	0	2	k'	ki#k'	1
+ki	kie	0	2	k'	ki#k'	1
+ki	kii	0	2	k'	ki#k'	1
+ki	kio	0	2	k'	ki#k'	1
+ki	kió	0	2	k'	ki#k'	1
+ki	kiu	0	2	k'	ki#k'	1
+ki	kiy	0	2	k'	ki#k'	1
+l	l	0	1	l	l#l	1
+li	lia	0	2	l j	li#lj	1
+li	lie	0	2	l j	li#lj	1
+li	lii	0	2	l j	li#lj	1
+li	lio	0	2	l j	li#lj	1
+li	lió	0	2	l j	li#lj	1
+li	liu	0	2	l j	li#lj	1
+li	liy	0	2	l j	li#lj	1
+ł	ł	0	1	w	ł#w	1
+m	m	0	1	m	m#m	1
+m	mf	0	1	w~	m#w~	1
+m	mw	0	1	w~	m#w~	1
+mi	mi	0	2	m i	mi#mi	1
+mi	mia	0	2	m'	mi#m'	1
+mi	mie	0	2	m'	mi#m'	1
+mi	mii	0	2	m'	mi#m'	1
+mi	mio	0	2	m'	mi#m'	1
+mi	mió	0	2	m'	mi#m'	1
+mi	miu	0	2	m'	mi#m'	1
+mi	miy	0	2	m'	mi#m'	1
+n	n	0	1	n	n#n	1
+n	nch	0	1	w~	n#w~	1
+n	nci	0	1	n'	n#n'	1
+n	ndzi	0	1	n'	n#n'	1
+n	nf	0	1	w~	n#w~	1
+n	nh	0	1	w~	n#w~	1
+n	nl	0	1	w~	n#w~	1
+n	nr	0	1	w~	n#w~	1
+n	nrz	0	1	w~	n#w~	1
+n	ns	0	1	w~	n#w~	1
+n	nsz	0	1	w~	n#w~	1
+n	nś	0	1	w~	n#w~	1
+n	nw	0	1	w~	n#w~	1
+n	nz	0	1	w~	n#w~	1
+n	nź	0	1	w~	n#w~	1
+n	nż	0	1	w~	n#w~	1
+ni	ni	0	2	n' i	ni#n'i	1
+ni	nia	0	2	n'	ni#n'	1
+ni	nie	0	2	n'	ni#n'	1
+ni	nii	0	2	n'	ni#n'	1
+ni	nio	0	2	n'	ni#n'	1
+ni	nió	0	2	n'	ni#n'	1
+ni	niu	0	2	n'	ni#n'	1
+ni	niy	0	2	n'	ni#n'	1
+ń	ń	0	1	n'	ń#n'	1
+ń	ńch	0	1	j~	ń#j~	1
+ń	ńf	0	1	j~	ń#j~	1
+ń	ńh	0	1	j~	ń#j~	1
+ń	ńrz	0	1	j~	ń#j~	1
+ń	ńs	0	1	j~	ń#j~	1
+ń	ńsz	0	1	j~	ń#j~	1
+ń	ńś	0	1	j~	ń#j~	1
+ń	ńw	0	1	j~	ń#j~	1
+ń	ńz	0	1	j~	ń#j~	1
+ń	ńź	0	1	j~	ń#j~	1
+ń	ńż	0	1	j~	ń#j~	1
+o	o	0	1	o	o#o	1
+ó	ó	0	1	u	ó#u	1
+p	p	0	1	p	p#p	1
+p	pb	0	1	b	p#b	1
+p	pd	0	1	b	p#b	1
+p	pg	0	1	b	p#b	1
+p	pz	0	1	b	p#b	1
+p	pź	0	1	b	p#b	1
+p	pż	0	1	b	p#b	1
+pi	pi	0	2	p i	pi#pi	1
+pi	pia	0	2	p'	pi#p'	1
+pi	pie	0	2	p'	pi#p'	1
+pi	pii	0	2	p'	pi#p'	1
+pi	pio	0	2	p'	pi#p'	1
+pi	pió	0	2	p'	pi#p'	1
+pi	piu	0	2	p'	pi#p'	1
+pi	piy	0	2	p'	pi#p'	1
+r	r	0	1	r	r#r	1
+ri	ria	0	2	r j	ri#rj	1
+ri	rie	0	2	r j	ri#rj	1
+ri	rii	0	2	r j	ri#rj	1
+ri	rio	0	2	r j	ri#rj	1
+ri	rió	0	2	r j	ri#rj	1
+ri	riu	0	2	r j	ri#rj	1
+ri	riy	0	2	r j	ri#rj	1
+rz	crz	1	2	S	rz#S	1
+rz	czrz	2	2	S	rz#S	1
+rz	ćrz	1	2	S	rz#S	1
+rz	frz	1	2	S	rz#S	1
+rz	hrz	1	2	S	rz#S	1
+rz	krz	1	2	S	rz#S	1
+rz	prz	1	2	S	rz#S	1
+rz	rz	0	2	Z	rz#Z	1
+rz	rz 	0	2	S	rz#S	1
+rz	rzc	0	2	S	rz#S	1
+rz	rzć	0	2	S	rz#S	1
+rz	rzf	0	2	S	rz#S	1
+rz	rzh	0	2	S	rz#S	1
+rz	rzk	0	2	S	rz#S	1
+rz	rzp	0	2	S	rz#S	1
+rz	rzs	0	2	S	rz#S	1
+rz	rzś	0	2	S	rz#S	1
+rz	rzt	0	2	S	rz#S	1
+rz	srz	1	2	S	rz#S	1
+rz	szrz	2	2	S	rz#S	1
+rz	śrz	1	2	S	rz#S	1
+rz	trz	1	2	S	rz#S	1
+s	s	0	1	s	s#s	1
+s	sb	0	1	z	s#z	1
+s	sci	0	1	s'	s#s'	1
+s	sczy	0	1	S	s#S	1
+s	sć	0	1	s'	s#s'	1
+s	sd	0	1	z	s#z	1
+s	sdrz	0	1	Z	s#Z	1
+s	sdzi	0	1	z'	s#z'	1
+s	sdź	0	1	Z	s#Z	1
+s	sdź	0	1	z'	s#z'	1
+s	sg	0	1	z	s#z	1
+s	ssi	0	1	s'	s#s'	1
+s	sszy	0	1	S	s#S	1
+s	sś	0	1	s'	s#s'	1
+s	strzy	0	1	S	s#S	1
+s	szi	0	1	z'	s#z'	1
+s	sź	0	1	z'	s#z'	1
+s	sż	0	1	z	s#z	1
+s	sż	0	1	Z	s#Z	1
+si	si	0	2	s' i	si#s'i	1
+si	sia	0	2	s'	si#s'	1
+si	się	0	2	s'	si#s'	1
+si	sii	0	2	s'	si#s'	1
+si	sio	0	2	s'	si#s'	1
+si	sió	0	2	s'	si#s'	1
+si	siu	0	2	s'	si#s'	1
+si	siy	0	2	s'	si#s'	1
+sz	sz	0	2	S	sz#S	1
+sz	szb	0	2	Z	sz#Z	1
+sz	szd	0	2	Z	sz#Z	1
+sz	szg	0	2	Z	sz#Z	1
+sz	szż	0	2	Z	sz#Z	1
+ś	ś	0	1	s'	ś#s'	1
+ś	śb	0	1	z'	ś#z'	1
+ś	śd	0	1	z'	ś#z'	1
+ś	śg	0	1	z'	ś#z'	1
+ś	śz	0	1	z'	ś#z'	1
+ś	śź	0	1	z'	ś#z'	1
+ś	śż	0	1	z'	ś#z'	1
+t	t	0	1	t	t#t	1
+t	tb	0	1	d	t#d	1
+t	tc	0	1	ts	t#ts	1
+t	tcz	0	1	tS	t#tS	1
+t	td	0	1	d	t#d	1
+t	tdrz	0	1	dZ	t#dZ	1
+t	tdz	0	1	dz	t#dz	1
+t	tdż	0	1	dZ	t#dZ	1
+t	tg	0	1	d	t#d	1
+t	trz	0	1	tS	t#tS	1
+t	ts	0	1	ts	t#ts	1
+t	tsz	0	1	tS	t#tS	1
+t	ttrz	0	1	tS	t#tS	1
+t	tz	0	1	d	t#d	1
+t	tz	0	1	dz	t#dz	1
+t	tź	0	1	d	t#d	1
+t	tż	0	1	d	t#d	1
+t	tż	0	1	dZ	t#dZ	1
+ti	tia	0	2	t j	ti#tj	1
+ti	tie	0	2	t j	ti#tj	1
+ti	tii	0	2	t j	ti#tj	1
+ti	tio	0	2	t j	ti#tj	1
+ti	tió	0	2	t j	ti#tj	1
+ti	tiu	0	2	t j	ti#tj	1
+ti	tiy	0	2	t j	ti#tj	1
+u	u	0	1	u	u#u	1
+w	 w c	1	1	f	w#f	1
+w	 w ć	1	1	f	w#f	1
+w	 w f	1	1	f	w#f	1
+w	 w h	1	1	f	w#f	1
+w	 w k	1	1	f	w#f	1
+w	 w p	1	1	f	w#f	1
+w	 w s	1	1	f	w#f	1
+w	 w ś	1	1	f	w#f	1
+w	 w t	1	1	f	w#f	1
+w	cw	1	1	f	w#f	1
+w	czw	2	1	f	w#f	1
+w	ćw	1	1	f	w#f	1
+w	fw	1	1	f	w#f	1
+w	hw	1	1	f	w#f	1
+w	kw	1	1	f	w#f	1
+w	pw	1	1	f	w#f	1
+w	sw	1	1	f	w#f	1
+w	szw	2	1	f	w#f	1
+w	św	1	1	f	w#f	1
+w	tw	1	1	f	w#f	1
+w	w	0	1	v	w#v	1
+w	w 	0	1	f	w#f	1
+w	wc	0	1	f	w#f	1
+w	wć	0	1	f	w#f	1
+w	wf	0	1	f	w#f	1
+w	wh	0	1	f	w#f	1
+w	wk	0	1	f	w#f	1
+w	wp	0	1	f	w#f	1
+w	ws	0	1	f	w#f	1
+w	wś	0	1	f	w#f	1
+w	wt	0	1	f	w#f	1
+wi	wi	0	2	v i	wi#vi	1
+wi	wia	0	2	v'	wi#v'	1
+wi	wie	0	2	v'	wi#v'	1
+wi	wii	0	2	v'	wi#v'	1
+wi	wio	0	2	v'	wi#v'	1
+wi	wió	0	2	v'	wi#v'	1
+wi	wiu	0	2	v'	wi#v'	1
+wi	wiy	0	2	v'	wi#v'	1
+y	y	0	1	I	y#I	1
+z	 z c	1	1	s	z#s	1
+z	 z f	1	1	s	z#s	1
+z	 z h	1	1	s	z#s	1
+z	 z k	1	1	s	z#s	1
+z	 z p	1	1	s	z#s	1
+z	 z s	1	1	s	z#s	1
+z	 z t	1	1	s	z#s	1
+z	z	0	1	z	z#z	1
+z	z 	0	1	s	z#s	1
+z	zc	0	1	s	z#s	1
+z	zci	0	1	s'	z#s'	1
+z	zcz	0	1	S	z#S	1
+z	zć	0	1	s'	z#s'	1
+z	zdrz	0	1	Z	z#Z	1
+z	zdzi	0	1	z'	z#z'	1
+z	zdź	0	1	Z	z#Z	1
+z	zdź	0	1	z'	z#z'	1
+z	zf	0	1	s	z#s	1
+z	zh	0	1	s	z#s	1
+z	zk	0	1	s	z#s	1
+z	zp	0	1	s	z#s	1
+z	zrz	0	1	Z	z#Z	1
+z	zs	0	1	s	z#s	1
+z	zsi	0	1	s'	z#s'	1
+z	zsz	0	1	S	z#S	1
+z	zś	0	1	s'	z#s'	1
+z	zt	0	1	s	z#s	1
+z	ztrz	0	1	S	z#S	1
+z	zzi	0	1	z'	z#z'	1
+z	zź	0	1	z'	z#z'	1
+z	zż	0	1	Z	z#Z	1
+zi	zi	0	2	z' i	zi#z'i	1
+zi	zia	0	2	z'	zi#z'	1
+zi	zie	0	2	z'	zi#z'	1
+zi	zii	0	2	z'	zi#z'	1
+zi	zio	0	2	z'	zi#z'	1
+zi	zió	0	2	z'	zi#z'	1
+zi	ziu	0	2	z'	zi#z'	1
+zi	ziy	0	2	z'	zi#z'	1
+ź	ź	0	1	z'	ź#z'	1
+ź	ź 	0	1	s'	ź#s'	1
+ź	źc	0	1	s'	ź#s'	1
+ź	źć	0	1	s'	ź#s'	1
+ź	źf	0	1	s'	ź#s'	1
+ź	źh	0	1	s'	ź#s'	1
+ź	źk	0	1	s'	ź#s'	1
+ź	źp	0	1	s'	ź#s'	1
+ź	źs	0	1	s'	ź#s'	1
+ź	źś	0	1	s'	ź#s'	1
+ź	źt	0	1	s'	ź#s'	1
+ż	ż	0	1	Z	ż#Z	1
+ż	ż 	0	1	S	ż#S	1
+ż	żć	0	1	S	ż#S	1
+ż	żf	0	1	S	ż#S	1
+ż	żh	0	1	S	ż#S	1
+ż	żk	0	1	S	ż#S	1
+ż	żp	0	1	S	ż#S	1
+ż	żs	0	1	S	ż#S	1
+ż	żś	0	1	S	ż#S	1
+ż	żt	0	1	S	ż#S	1
+q	q	0	1	k u	q#ku	1
+x	x	0	1	k s	x#ks	1
+v	v	0	1	v	v#v	1
+vi	vi	0	2	v i	vi#vi	1
+vi	via	0	2	v'	vi#v'	1
+vi	vie	0	2	v'	vi#v'	1
+vi	vii	0	2	v'	vi#v'	1
+vi	vio	0	2	v'	vi#v'	1
+vi	vió	0	2	v'	vi#v'	1
+vi	viu	0	2	v'	vi#v'	1
+vi	viy	0	2	v'	vi#v'	1
+bi	bia	0	2	b j	bi#bj	2
+bi	bie	0	2	b j	bi#bj	2
+bi	bii	0	2	b j	bi#bj	2
+bi	biy	0	2	b j	bi#bj	2
+bi	biu	0	2	b j	bi#bj	2
+bi	bio	0	2	b j	bi#bj	2
+bi	bió	0	2	b j	bi#bj	2
+d	ddz	0	1	dz	d#dz	2
+d	dz	0	1	dz	d#dz	2
+dz	dzi	0	2	dz' z'	dz#dz'z'	2
+dz	dz	0	2	dz z	dz#dzz	2
+dzi	dzia	0	3	dz' z'	dzi#dz'z'	2
+dzi	dzie	0	3	dz' z'	dzi#dz'z'	2
+dzi	dzii	0	3	dz' z'	dzi#dz'z'	2
+dzi	dzio	0	3	dz' z'	dzi#dz'z'	2
+dzi	dzió	0	3	dz' z'	dzi#dz'z'	2
+dzi	dziu	0	3	dz' z'	dzi#dz'z'	2
+dzi	dziy	0	3	dz' z'	dzi#dz'z'	2
+dź	dź	0	2	dz' z'	dź#dz'z'	2
+dż	dż	0	2	dZ Z	dż#dZZ	2
+fi	fia	0	2	f j	fi#fj	2
+fi	fie	0	2	f j	fi#fj	2
+fi	fii	0	2	f j	fi#fj	2
+fi	fio	0	2	f j	fi#fj	2
+fi	fió	0	2	f j	fi#fj	2
+fi	fiu	0	2	f j	fi#fj	2
+fi	fiy	0	2	f j	fi#fj	2
+gi	gia	0	2	g' j	gi#g'j	2
+gi	gie	0	2	g' j	gi#g'j	2
+gi	gii	0	2	g' j	gi#g'j	2
+gi	gio	0	2	g' j	gi#g'j	2
+gi	gió	0	2	g' j	gi#g'j	2
+gi	giu	0	2	g' j	gi#g'j	2
+gi	giy	0	2	g' j	gi#g'j	2
+i	ia	0	1	j	i#j	2
+i	ie	0	1	j	i#j	2
+i	ii	0	1	j	i#j	2
+i	io	0	1	j	i#j	2
+i	ió	0	1	j	i#j	2
+i	iu	0	1	j	i#j	2
+i	iy	0	1	j	i#j	2
+ki	kia	0	2	k' j	ki#k'j	2
+ki	kie	0	2	k' j	ki#k'j	2
+ki	kii	0	2	k' j	ki#k'j	2
+ki	kio	0	2	k' j	ki#k'j	2
+ki	kió	0	2	k' j	ki#k'j	2
+ki	kiu	0	2	k' j	ki#k'j	2
+ki	kiy	0	2	k' j	ki#k'j	2
+mi	mia	0	2	m j	mi#mj	2
+mi	mie	0	2	m j	mi#mj	2
+mi	mii	0	2	m j	mi#mj	2
+mi	mio	0	2	m j	mi#mj	2
+mi	mió	0	2	m j	mi#mj	2
+mi	miu	0	2	m j	mi#mj	2
+mi	miy	0	2	m j	mi#mj	2
+n	ngi	0	1	N'	n#N'	2
+n	nki	0	1	N'	n#N'	2
+n	ng	0	1	N	n#N	2
+n	nk	0	1	N	n#N	2
+ni	nia	0	2	n' j	ni#n'j	2
+ni	nie	0	2	n' j	ni#n'j	2
+ni	nii	0	2	n' j	ni#n'j	2
+ni	nio	0	2	n' j	ni#n'j	2
+ni	nió	0	2	n' j	ni#n'j	2
+ni	niu	0	2	n' j	ni#n'j	2
+ni	niy	0	2	n' j	ni#n'j	2
+pi	pia	0	2	p j	pi#pj	2
+pi	pie	0	2	p j	pi#pj	2
+pi	pii	0	2	p j	pi#pj	2
+pi	pio	0	2	p j	pi#pj	2
+pi	pió	0	2	p j	pi#pj	2
+pi	piu	0	2	p j	pi#pj	2
+pi	piy	0	2	p j	pi#pj	2
+rz	rz	0	2	r z	rz#rz	2
+rz	rz	0	2	r z'	rz#rz'	2
+u	au	1	1	w	u#w	2
+u	eu	1	1	w	u#w	2
+u	iu	1	1	w	u#w	2
+u	ou	1	1	w	u#w	2
+wi	wia	0	2	v j	wi#vj	2
+wi	wie	0	2	v j	wi#vj	2
+wi	wii	0	2	v j	wi#vj	2
+wi	wiy	0	2	v j	wi#vj	2
+wi	wiu	0	2	v j	wi#vj	2
+wi	wio	0	2	v j	wi#vj	2
+wi	wió	0	2	v j	wi#vj	2
+vi	via	0	2	v j	vi#vj	2
+vi	vie	0	2	v j	vi#vj	2
+vi	vii	0	2	v j	vi#vj	2
+vi	viy	0	2	v j	vi#vj	2
+vi	viu	0	2	v j	vi#vj	2
+vi	vio	0	2	v j	vi#vj	2
+vi	vió	0	2	v j	vi#vj	2
